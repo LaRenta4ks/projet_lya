@@ -1,0 +1,16 @@
+{
+  "name": "projet_lya",
+  "version": "1.0.0",
+  "description": "lya est une IA dev avec electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Ibrahima",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.2.0",
+    "tailwind": "^4.0.0"
+  }
+}
